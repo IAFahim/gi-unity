@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gi.Influence</id>
+    <version>0.2.0-alpha.3</version>
+    <authors>IAFahim</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/IAFahim/grid-influence</projectUrl>
+    <description>Sparse tiled integer influence fields: difference-array boxes, bilinear raster stamps with sub-cell placement, per-tile prefix-sum resolve, multi-resolution grids, byte-handle API.</description>
+    <repository type="git" url="https://github.com/IAFahim/grid-influence" branch="refs/heads/main" commit="298df669c363cd09a79a9eb9f1a5b2b3893c4e4c" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+</package>
